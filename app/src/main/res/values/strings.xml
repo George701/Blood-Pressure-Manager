@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Blood Pressure Log</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="diastolic_pr_label">Diastolic Pressure</string>
+    <string name="mm_of_mercury">mmHg</string>
+    <string name="systolic_pr_label">Systolic Pressure</string>
+    <string name="hb_label">Heart Beats Rate</string>
+    <string name="bpm">Beats per Minute</string>
+    <string name="btn_save_lbl">Save</string>
+    <string name="btn_display_lbl">Show</string>
+    <string name="btn_avg_lbl">Average</string>
+    <string name="hint_distlc">120</string>
+    <string name="hint_systlc">80</string>
+    <string name="hint_hb">60 - 100</string>
+    <string name="warning_empty_field">Please, fill out all the fields!</string>
+</resources>
